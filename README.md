@@ -5,14 +5,14 @@ Different Reinforcement + Deep Learning techniques applied on starcraft 2 map Mo
 # SC2-Q-learning
 
 # Usage
->All the hyperparameters are contained in the Learning/Q_Learning.py file.
->To train a new network runscript.py
+* All the hyperparameters are contained in the Learning/Q_Learning.py file.
+* To train a new network runscript.py
 
 
 # Requirements
-*Python 3.6
-*Pandas
-*StartCraft II(Game)
+* Python 3.6
+* Pandas
+* StartCraft II(Game)
 
 
 Learn More Here
