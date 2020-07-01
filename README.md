@@ -1,8 +1,10 @@
-# Starcraft-2-Learning-
-Different Reinforcement + Deep Learning techniques applied on starcraft 2 map MoveToBeacon.
+# Starcraft-2-Learning(PySC2)
+Different Reinforcement + Deep Learning techniques applied on starcraft 2 maps using PySC2 Environment.
+
 
 
 # SC2-Q-learning
+This is an implementation of the Q-Learning algorithm in SC2 environments. The algorithm learns to reach a goal state with stochastic transitions and rewards, without requiring adaptations.
 
 # Usage
 * All the hyperparameters are contained in the Learning/Q_Learning.py file.
