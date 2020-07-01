@@ -6,7 +6,7 @@ Different Reinforcement + Deep Learning techniques applied on starcraft 2 map Mo
 
 # Usage
 * All the hyperparameters are contained in the Learning/Q_Learning.py file.
-* To train a new network runscript.py
+* To train a new network runScript.py
 
 
 # Requirements
